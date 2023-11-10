@@ -1,0 +1,785 @@
+[[mousetrap]]
+arch = "aarch64"
+git-tree-sha1 = "5692d4489231f429cb10a62d4ca53711411c9b4f"
+julia_version = "1.10.0"
+os = "macos"
+
+    [[mousetrap.download]]
+    sha256 = "7b9883787e187f20715bd33f18531b44474e683bf368df1cbb200929b67f699b"
+    url = "https://github.com/JuliaBinaryWrappers/mousetrap_jll.jl/releases/download/mousetrap-v0.3.0+0/mousetrap.v0.3.0.aarch64-apple-darwin-julia_version+1.10.0.tar.gz"
+[[mousetrap]]
+arch = "aarch64"
+git-tree-sha1 = "5b6d4ad9641c38d7ed39fb5e809769627c3136be"
+julia_version = "1.11.0"
+os = "macos"
+
+    [[mousetrap.download]]
+    sha256 = "fe98ed9445a3a792cc3fe63157847737618449a9cc18f716ea0401c54ed7e8dc"
+    url = "https://github.com/JuliaBinaryWrappers/mousetrap_jll.jl/releases/download/mousetrap-v0.3.0+0/mousetrap.v0.3.0.aarch64-apple-darwin-julia_version+1.11.0.tar.gz"
+[[mousetrap]]
+arch = "aarch64"
+git-tree-sha1 = "6dab5645686e848f90f6006ebccb53a576588b33"
+julia_version = "1.7.0"
+os = "macos"
+
+    [[mousetrap.download]]
+    sha256 = "234470e11d165b8927762abd9e2a8930c62f7eeaf9e5274255026dbde939fb25"
+    url = "https://github.com/JuliaBinaryWrappers/mousetrap_jll.jl/releases/download/mousetrap-v0.3.0+0/mousetrap.v0.3.0.aarch64-apple-darwin-julia_version+1.7.0.tar.gz"
+[[mousetrap]]
+arch = "aarch64"
+git-tree-sha1 = "540cf3e426abc19fb246b9791cadff39964d8082"
+julia_version = "1.8.2"
+os = "macos"
+
+    [[mousetrap.download]]
+    sha256 = "6b3917ed8f1eefbea7b7be6dc06438d38ba7c3cc6d022c2f6ef93516e5f8cd89"
+    url = "https://github.com/JuliaBinaryWrappers/mousetrap_jll.jl/releases/download/mousetrap-v0.3.0+0/mousetrap.v0.3.0.aarch64-apple-darwin-julia_version+1.8.2.tar.gz"
+[[mousetrap]]
+arch = "aarch64"
+git-tree-sha1 = "882ab26004ff440978d4267434eddc201ac65185"
+julia_version = "1.9.0"
+os = "macos"
+
+    [[mousetrap.download]]
+    sha256 = "b3cfac101a2c657393fd95c88fb66004f8b9f3969e981954f2c89791e29ef485"
+    url = "https://github.com/JuliaBinaryWrappers/mousetrap_jll.jl/releases/download/mousetrap-v0.3.0+0/mousetrap.v0.3.0.aarch64-apple-darwin-julia_version+1.9.0.tar.gz"
+[[mousetrap]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "89a7291c4d05c282fd8f35efcb22000fb3fa1323"
+julia_version = "1.10.0"
+libc = "glibc"
+os = "linux"
+
+    [[mousetrap.download]]
+    sha256 = "d46a6e40c72b1e6d2457af88b779f1fc6e32dbfc7ed2881b564f705594ebba6e"
+    url = "https://github.com/JuliaBinaryWrappers/mousetrap_jll.jl/releases/download/mousetrap-v0.3.0+0/mousetrap.v0.3.0.aarch64-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
+[[mousetrap]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "669dcfe83cd9f003d5c9b3e2251b25ef8c597164"
+julia_version = "1.11.0"
+libc = "glibc"
+os = "linux"
+
+    [[mousetrap.download]]
+    sha256 = "6a3b415e621f549538c5f549d2b3328f48ffb53ce4889197b6458a462f2dfbd5"
+    url = "https://github.com/JuliaBinaryWrappers/mousetrap_jll.jl/releases/download/mousetrap-v0.3.0+0/mousetrap.v0.3.0.aarch64-linux-gnu-cxx03-julia_version+1.11.0.tar.gz"
+[[mousetrap]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "598954ddc10bb99c8914c1dbf8fa883bca4ba0f8"
+julia_version = "1.7.0"
+libc = "glibc"
+os = "linux"
+
+    [[mousetrap.download]]
+    sha256 = "e4441bf898fc04173d8a0a33bae7b0e7dadcf990a4a79c88573bc8e9fa801629"
+    url = "https://github.com/JuliaBinaryWrappers/mousetrap_jll.jl/releases/download/mousetrap-v0.3.0+0/mousetrap.v0.3.0.aarch64-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
+[[mousetrap]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a572e8ffef2017dd055fa0813a0db97447ac9839"
+julia_version = "1.8.2"
+libc = "glibc"
+os = "linux"
+
+    [[mousetrap.download]]
+    sha256 = "28af06c022c3f76278f7968bac131d7122a990ba8ddfdc9261cc2e89526a05c2"
+    url = "https://github.com/JuliaBinaryWrappers/mousetrap_jll.jl/releases/download/mousetrap-v0.3.0+0/mousetrap.v0.3.0.aarch64-linux-gnu-cxx03-julia_version+1.8.2.tar.gz"
+[[mousetrap]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "cd81c65d51998183ccd55cd6390e8ebf53e5b48f"
+julia_version = "1.9.0"
+libc = "glibc"
+os = "linux"
+
+    [[mousetrap.download]]
+    sha256 = "d1bd99f7bf15876fcfa1880212417d48f94b4be7b2499dec13518ab55d8ab46d"
+    url = "https://github.com/JuliaBinaryWrappers/mousetrap_jll.jl/releases/download/mousetrap-v0.3.0+0/mousetrap.v0.3.0.aarch64-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
+[[mousetrap]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "908e03479afc0444c9f9174b80bcf71833e8d32e"
+julia_version = "1.10.0"
+libc = "glibc"
+os = "linux"
+
+    [[mousetrap.download]]
+    sha256 = "e7d309c7bf1a56307ace6e929b5d19ba5b9d4a60522115eb435afd1b4469dfd9"
+    url = "https://github.com/JuliaBinaryWrappers/mousetrap_jll.jl/releases/download/mousetrap-v0.3.0+0/mousetrap.v0.3.0.aarch64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+[[mousetrap]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ffdcec0e2d90414314ea4d84b7c9a39fb50a490b"
+julia_version = "1.11.0"
+libc = "glibc"
+os = "linux"
+
+    [[mousetrap.download]]
+    sha256 = "cb4d5c7bc33bcf86d65990124bfaf3782d24593c0ee33ae86eaa9acbc3299e5f"
+    url = "https://github.com/JuliaBinaryWrappers/mousetrap_jll.jl/releases/download/mousetrap-v0.3.0+0/mousetrap.v0.3.0.aarch64-linux-gnu-cxx11-julia_version+1.11.0.tar.gz"
+[[mousetrap]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0248d21f0daa8d3c7877fb10a9dcdc26f6fe55fe"
+julia_version = "1.7.0"
+libc = "glibc"
+os = "linux"
+
+    [[mousetrap.download]]
+    sha256 = "a6473fb42c96b0c69dc93143ad435411ad974e718ec09d6f24ed91ffc6212d84"
+    url = "https://github.com/JuliaBinaryWrappers/mousetrap_jll.jl/releases/download/mousetrap-v0.3.0+0/mousetrap.v0.3.0.aarch64-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
+[[mousetrap]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e80b9bb9c7d1f8202d11dc4ca69a013cebe87f1e"
+julia_version = "1.8.2"
+libc = "glibc"
+os = "linux"
+
+    [[mousetrap.download]]
+    sha256 = "3f298b37ce3398f2379db6eacb703a03873489d7e3d2c623ea4db69466948b7b"
+    url = "https://github.com/JuliaBinaryWrappers/mousetrap_jll.jl/releases/download/mousetrap-v0.3.0+0/mousetrap.v0.3.0.aarch64-linux-gnu-cxx11-julia_version+1.8.2.tar.gz"
+[[mousetrap]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "60bf2bad31690afb935733293f1fcd691539d62d"
+julia_version = "1.9.0"
+libc = "glibc"
+os = "linux"
+
+    [[mousetrap.download]]
+    sha256 = "e85c8aaf5cfc6f7cd4ae6d70e29ca6a9a17dd57d1f7eca997dfa0669167eef79"
+    url = "https://github.com/JuliaBinaryWrappers/mousetrap_jll.jl/releases/download/mousetrap-v0.3.0+0/mousetrap.v0.3.0.aarch64-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
+[[mousetrap]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9ad2d18cce8b3ccf544408dd31251bda17da4d87"
+julia_version = "1.10.0"
+libc = "musl"
+os = "linux"
+
+    [[mousetrap.download]]
+    sha256 = "b568101e8fe8664efdb6b720076261c281eddfe1b40a9fc2ee35d35e2f53e9f4"
+    url = "https://github.com/JuliaBinaryWrappers/mousetrap_jll.jl/releases/download/mousetrap-v0.3.0+0/mousetrap.v0.3.0.aarch64-linux-musl-cxx03-julia_version+1.10.0.tar.gz"
+[[mousetrap]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "34d24bf18fc814a97e8c0220f312131781c133a1"
+julia_version = "1.11.0"
+libc = "musl"
+os = "linux"
+
+    [[mousetrap.download]]
+    sha256 = "e6a8efb202919456de41fe70ee71f5541b48492dd16187b0395d5583f4090f58"
+    url = "https://github.com/JuliaBinaryWrappers/mousetrap_jll.jl/releases/download/mousetrap-v0.3.0+0/mousetrap.v0.3.0.aarch64-linux-musl-cxx03-julia_version+1.11.0.tar.gz"
+[[mousetrap]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ee2cdad4216906ec08df3111530a2098e77a323a"
+julia_version = "1.7.0"
+libc = "musl"
+os = "linux"
+
+    [[mousetrap.download]]
+    sha256 = "369e6c76c1f2cb1d20c6c4df4a4e0944f045f8dbc8c94e0def2844518f3f0d89"
+    url = "https://github.com/JuliaBinaryWrappers/mousetrap_jll.jl/releases/download/mousetrap-v0.3.0+0/mousetrap.v0.3.0.aarch64-linux-musl-cxx03-julia_version+1.7.0.tar.gz"
+[[mousetrap]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e85f79107155536cd8e2b45e57efbacf7e28c9b0"
+julia_version = "1.8.2"
+libc = "musl"
+os = "linux"
+
+    [[mousetrap.download]]
+    sha256 = "6be6f71f60fbaccbebdc6fedd1d9da242c7613c729b1c64457effa17f8b6a62e"
+    url = "https://github.com/JuliaBinaryWrappers/mousetrap_jll.jl/releases/download/mousetrap-v0.3.0+0/mousetrap.v0.3.0.aarch64-linux-musl-cxx03-julia_version+1.8.2.tar.gz"
+[[mousetrap]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "382606e2fc4e92589ffbf08477b26eccc8c9eeec"
+julia_version = "1.9.0"
+libc = "musl"
+os = "linux"
+
+    [[mousetrap.download]]
+    sha256 = "4cdab27f0f6540fd3df12c75541b5e0a01cf0a3bc33c2a7ae65dcbe433f44320"
+    url = "https://github.com/JuliaBinaryWrappers/mousetrap_jll.jl/releases/download/mousetrap-v0.3.0+0/mousetrap.v0.3.0.aarch64-linux-musl-cxx03-julia_version+1.9.0.tar.gz"
+[[mousetrap]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5d36a785b6b441ba862444ac15e935f453a073f6"
+julia_version = "1.10.0"
+libc = "musl"
+os = "linux"
+
+    [[mousetrap.download]]
+    sha256 = "b5afc7092b2965ff5b507b3531ef9309617baf7abc7c97152335ab2ddf8a4caf"
+    url = "https://github.com/JuliaBinaryWrappers/mousetrap_jll.jl/releases/download/mousetrap-v0.3.0+0/mousetrap.v0.3.0.aarch64-linux-musl-cxx11-julia_version+1.10.0.tar.gz"
+[[mousetrap]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8d95dcf8e5e72e2ee718f0e9248c7de08c6ac42d"
+julia_version = "1.11.0"
+libc = "musl"
+os = "linux"
+
+    [[mousetrap.download]]
+    sha256 = "08e7fd99caa69bfc4e385441e298768926abbc7f1d6faa18420c7ee81c5d2d99"
+    url = "https://github.com/JuliaBinaryWrappers/mousetrap_jll.jl/releases/download/mousetrap-v0.3.0+0/mousetrap.v0.3.0.aarch64-linux-musl-cxx11-julia_version+1.11.0.tar.gz"
+[[mousetrap]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f6148fc56009d60021baebb7cfa9af75e30479ce"
+julia_version = "1.7.0"
+libc = "musl"
+os = "linux"
+
+    [[mousetrap.download]]
+    sha256 = "c33ef4066ea3c5bed6a58f72cc27ade8cfed4283b748778ecc5affd021346c2e"
+    url = "https://github.com/JuliaBinaryWrappers/mousetrap_jll.jl/releases/download/mousetrap-v0.3.0+0/mousetrap.v0.3.0.aarch64-linux-musl-cxx11-julia_version+1.7.0.tar.gz"
+[[mousetrap]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4786dc6947831f7ccfe801339e0ba2bdbad606f2"
+julia_version = "1.8.2"
+libc = "musl"
+os = "linux"
+
+    [[mousetrap.download]]
+    sha256 = "8c1fa60edfac422005edb0f8834b41d81589f031dc70289f232e2645ec77b4e3"
+    url = "https://github.com/JuliaBinaryWrappers/mousetrap_jll.jl/releases/download/mousetrap-v0.3.0+0/mousetrap.v0.3.0.aarch64-linux-musl-cxx11-julia_version+1.8.2.tar.gz"
+[[mousetrap]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "46b7e7e522c1f64d0100a794966a5d9149db2cc7"
+julia_version = "1.9.0"
+libc = "musl"
+os = "linux"
+
+    [[mousetrap.download]]
+    sha256 = "09e486176aa487c735206c07d9ccb9231f732203b468231034c661dde4fc3444"
+    url = "https://github.com/JuliaBinaryWrappers/mousetrap_jll.jl/releases/download/mousetrap-v0.3.0+0/mousetrap.v0.3.0.aarch64-linux-musl-cxx11-julia_version+1.9.0.tar.gz"
+[[mousetrap]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "8c643bcd8f14c4689de2d770b592d38dc382c8d1"
+julia_version = "1.10.0"
+libc = "glibc"
+os = "linux"
+
+    [[mousetrap.download]]
+    sha256 = "16a5540bea320c8199d4aed5ef93af972658a776b0dc3500322b61d4894ace1a"
+    url = "https://github.com/JuliaBinaryWrappers/mousetrap_jll.jl/releases/download/mousetrap-v0.3.0+0/mousetrap.v0.3.0.powerpc64le-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
+[[mousetrap]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4c91ce028d2c5df487c1090787ba80ddf1c12cae"
+julia_version = "1.11.0"
+libc = "glibc"
+os = "linux"
+
+    [[mousetrap.download]]
+    sha256 = "7d4b793d84036ec02fba4d974ec9983768b3036e180a62873fa0d17bbcfc82fb"
+    url = "https://github.com/JuliaBinaryWrappers/mousetrap_jll.jl/releases/download/mousetrap-v0.3.0+0/mousetrap.v0.3.0.powerpc64le-linux-gnu-cxx03-julia_version+1.11.0.tar.gz"
+[[mousetrap]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "292a49933a24e9d050e38c46c0f2b74d19973c82"
+julia_version = "1.7.0"
+libc = "glibc"
+os = "linux"
+
+    [[mousetrap.download]]
+    sha256 = "37cbc350f38d1f77ac36aa19d6871f859476cb0eb30381dbc7276a0dd7cbcf2c"
+    url = "https://github.com/JuliaBinaryWrappers/mousetrap_jll.jl/releases/download/mousetrap-v0.3.0+0/mousetrap.v0.3.0.powerpc64le-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
+[[mousetrap]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "5fb615d13d90cf4d51ea09efe215d6216743e973"
+julia_version = "1.8.2"
+libc = "glibc"
+os = "linux"
+
+    [[mousetrap.download]]
+    sha256 = "e62e7bba823e80aeeb839ea69391537a2003b027d2a9aca9f19c4615aeed2614"
+    url = "https://github.com/JuliaBinaryWrappers/mousetrap_jll.jl/releases/download/mousetrap-v0.3.0+0/mousetrap.v0.3.0.powerpc64le-linux-gnu-cxx03-julia_version+1.8.2.tar.gz"
+[[mousetrap]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "7f154831faa9f75e8e076fab63d7dec094d01120"
+julia_version = "1.9.0"
+libc = "glibc"
+os = "linux"
+
+    [[mousetrap.download]]
+    sha256 = "ebf3a141b7db26da3f8303c6a47b751dc250fa32bdf26ef0a6245d9cfbc402e3"
+    url = "https://github.com/JuliaBinaryWrappers/mousetrap_jll.jl/releases/download/mousetrap-v0.3.0+0/mousetrap.v0.3.0.powerpc64le-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
+[[mousetrap]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ccda5add002a9136c4ef9fe1304c265d3caf2221"
+julia_version = "1.10.0"
+libc = "glibc"
+os = "linux"
+
+    [[mousetrap.download]]
+    sha256 = "c4e5ea47cbb3e52fa612946330e0a6ec96672e70a7fe05105fc388819b023992"
+    url = "https://github.com/JuliaBinaryWrappers/mousetrap_jll.jl/releases/download/mousetrap-v0.3.0+0/mousetrap.v0.3.0.powerpc64le-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+[[mousetrap]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0ea518b259d5c72c4482b41e140f34d268a3aa81"
+julia_version = "1.11.0"
+libc = "glibc"
+os = "linux"
+
+    [[mousetrap.download]]
+    sha256 = "23631332371f16fb18f790a1f0ebf3d253738eed5b0ddba6f8d37819ffdb2b30"
+    url = "https://github.com/JuliaBinaryWrappers/mousetrap_jll.jl/releases/download/mousetrap-v0.3.0+0/mousetrap.v0.3.0.powerpc64le-linux-gnu-cxx11-julia_version+1.11.0.tar.gz"
+[[mousetrap]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b665ec464a23a31eef8cb9621366a324b1567900"
+julia_version = "1.7.0"
+libc = "glibc"
+os = "linux"
+
+    [[mousetrap.download]]
+    sha256 = "3279b33271b74f6c5243353c0fa741f4d2f39efff539fcd522d08ef916504b05"
+    url = "https://github.com/JuliaBinaryWrappers/mousetrap_jll.jl/releases/download/mousetrap-v0.3.0+0/mousetrap.v0.3.0.powerpc64le-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
+[[mousetrap]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "77337bd4d6c8a9ab625f08987239ffeaa273cf0e"
+julia_version = "1.8.2"
+libc = "glibc"
+os = "linux"
+
+    [[mousetrap.download]]
+    sha256 = "970b00870e1b3e98d3897aaec5660fd8852f41343d6c21a79744456710c642fa"
+    url = "https://github.com/JuliaBinaryWrappers/mousetrap_jll.jl/releases/download/mousetrap-v0.3.0+0/mousetrap.v0.3.0.powerpc64le-linux-gnu-cxx11-julia_version+1.8.2.tar.gz"
+[[mousetrap]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ff06dca410b8504a76064611283dc643f9d873cc"
+julia_version = "1.9.0"
+libc = "glibc"
+os = "linux"
+
+    [[mousetrap.download]]
+    sha256 = "af8e4c61a964b14b7d7af82fa23a86fa46823596eb1fcf07a29873c6bdda9e2b"
+    url = "https://github.com/JuliaBinaryWrappers/mousetrap_jll.jl/releases/download/mousetrap-v0.3.0+0/mousetrap.v0.3.0.powerpc64le-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
+[[mousetrap]]
+arch = "x86_64"
+git-tree-sha1 = "9232130757b78d3d5d9ddc19ae25a9b79d2c73a6"
+julia_version = "1.10.0"
+os = "macos"
+
+    [[mousetrap.download]]
+    sha256 = "3f84f814c35465fa04fc074ba381c8b3385d009f15606a50b84d28b9028ceff5"
+    url = "https://github.com/JuliaBinaryWrappers/mousetrap_jll.jl/releases/download/mousetrap-v0.3.0+0/mousetrap.v0.3.0.x86_64-apple-darwin-julia_version+1.10.0.tar.gz"
+[[mousetrap]]
+arch = "x86_64"
+git-tree-sha1 = "51b918e0dc0a9c25920b7c615928d5a1b28c3c14"
+julia_version = "1.11.0"
+os = "macos"
+
+    [[mousetrap.download]]
+    sha256 = "42dad2ccc6ea38c92a77b1f219679843868e133dbed76b637bf5cafd69c67da4"
+    url = "https://github.com/JuliaBinaryWrappers/mousetrap_jll.jl/releases/download/mousetrap-v0.3.0+0/mousetrap.v0.3.0.x86_64-apple-darwin-julia_version+1.11.0.tar.gz"
+[[mousetrap]]
+arch = "x86_64"
+git-tree-sha1 = "1ba9b90769966c4a75077f3c486626fab7ad5717"
+julia_version = "1.7.0"
+os = "macos"
+
+    [[mousetrap.download]]
+    sha256 = "b0229020406c69a9d8929fb29e4cb07b2d7d331b07d4f756da721e5843edfe75"
+    url = "https://github.com/JuliaBinaryWrappers/mousetrap_jll.jl/releases/download/mousetrap-v0.3.0+0/mousetrap.v0.3.0.x86_64-apple-darwin-julia_version+1.7.0.tar.gz"
+[[mousetrap]]
+arch = "x86_64"
+git-tree-sha1 = "ea880faa7836d9d403b9f4dd0cfb499cd5bee83d"
+julia_version = "1.8.2"
+os = "macos"
+
+    [[mousetrap.download]]
+    sha256 = "9defd4c3ca136f93760825c87d664c8d581b7bb90970f9eb7c640d1b26493948"
+    url = "https://github.com/JuliaBinaryWrappers/mousetrap_jll.jl/releases/download/mousetrap-v0.3.0+0/mousetrap.v0.3.0.x86_64-apple-darwin-julia_version+1.8.2.tar.gz"
+[[mousetrap]]
+arch = "x86_64"
+git-tree-sha1 = "6712da22b9976f050bc82afe0cecba7bd3cc576c"
+julia_version = "1.9.0"
+os = "macos"
+
+    [[mousetrap.download]]
+    sha256 = "bfc87708d8b2c442b6b141b7296c49347909c0a4d53d7e4fbaccf232f8075a21"
+    url = "https://github.com/JuliaBinaryWrappers/mousetrap_jll.jl/releases/download/mousetrap-v0.3.0+0/mousetrap.v0.3.0.x86_64-apple-darwin-julia_version+1.9.0.tar.gz"
+[[mousetrap]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a00325d9e9eb74eda5dddc3726c07c9eb03d3f1e"
+julia_version = "1.10.0"
+libc = "glibc"
+os = "linux"
+
+    [[mousetrap.download]]
+    sha256 = "4de051cc67deefce927f3dd85377cc85604e041d4fd700856b9c675a93ace4a4"
+    url = "https://github.com/JuliaBinaryWrappers/mousetrap_jll.jl/releases/download/mousetrap-v0.3.0+0/mousetrap.v0.3.0.x86_64-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
+[[mousetrap]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "6890f12f4be3523fb98f5ae19c9c57597910cce2"
+julia_version = "1.11.0"
+libc = "glibc"
+os = "linux"
+
+    [[mousetrap.download]]
+    sha256 = "7a246d567bdb1353402e3984b793559835f6c700a9f9411ae9152884b24f6bc5"
+    url = "https://github.com/JuliaBinaryWrappers/mousetrap_jll.jl/releases/download/mousetrap-v0.3.0+0/mousetrap.v0.3.0.x86_64-linux-gnu-cxx03-julia_version+1.11.0.tar.gz"
+[[mousetrap]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e5774a7731eecaa3d5d395d5c03688d346a27967"
+julia_version = "1.7.0"
+libc = "glibc"
+os = "linux"
+
+    [[mousetrap.download]]
+    sha256 = "3eee986b9d17524f0e2ea95f806831cc88a408082ed4e3db4201959f23217356"
+    url = "https://github.com/JuliaBinaryWrappers/mousetrap_jll.jl/releases/download/mousetrap-v0.3.0+0/mousetrap.v0.3.0.x86_64-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
+[[mousetrap]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "2e9286e591ba6bb39f126c2ec24ed2134733ec35"
+julia_version = "1.8.2"
+libc = "glibc"
+os = "linux"
+
+    [[mousetrap.download]]
+    sha256 = "3f44a1e38b69ead226ac8838cb54b738bbc6db7d935e5bea2b8b14e6d4e167be"
+    url = "https://github.com/JuliaBinaryWrappers/mousetrap_jll.jl/releases/download/mousetrap-v0.3.0+0/mousetrap.v0.3.0.x86_64-linux-gnu-cxx03-julia_version+1.8.2.tar.gz"
+[[mousetrap]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e73711ad0730ae3fed387f5b88da196d0e4345cd"
+julia_version = "1.9.0"
+libc = "glibc"
+os = "linux"
+
+    [[mousetrap.download]]
+    sha256 = "667f4527fcb853a7f6056136072c45272bfb297f9cad2c6e0bc6fc8da8daf49c"
+    url = "https://github.com/JuliaBinaryWrappers/mousetrap_jll.jl/releases/download/mousetrap-v0.3.0+0/mousetrap.v0.3.0.x86_64-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
+[[mousetrap]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ad6f8649d721e10152aafaf112d1e67de8504f15"
+julia_version = "1.10.0"
+libc = "glibc"
+os = "linux"
+
+    [[mousetrap.download]]
+    sha256 = "cd98ea36131b59bf58c7eb1c9c30da709193a9429808a93bff1571f0d3ffc165"
+    url = "https://github.com/JuliaBinaryWrappers/mousetrap_jll.jl/releases/download/mousetrap-v0.3.0+0/mousetrap.v0.3.0.x86_64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+[[mousetrap]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1e2a65cc5d181594f12fb33c5c018c1b5a78ca12"
+julia_version = "1.11.0"
+libc = "glibc"
+os = "linux"
+
+    [[mousetrap.download]]
+    sha256 = "1762308fabe609a56e4f68a0b526cbe93a2770e60c990f2ab13a804740e79700"
+    url = "https://github.com/JuliaBinaryWrappers/mousetrap_jll.jl/releases/download/mousetrap-v0.3.0+0/mousetrap.v0.3.0.x86_64-linux-gnu-cxx11-julia_version+1.11.0.tar.gz"
+[[mousetrap]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7db67e9212ac2e6ec47393d61349c538ac4154cd"
+julia_version = "1.7.0"
+libc = "glibc"
+os = "linux"
+
+    [[mousetrap.download]]
+    sha256 = "6c39be0e0840cd01ff4031f05f345e7f14e100721354e0784ac0f70ee1d4bfbb"
+    url = "https://github.com/JuliaBinaryWrappers/mousetrap_jll.jl/releases/download/mousetrap-v0.3.0+0/mousetrap.v0.3.0.x86_64-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
+[[mousetrap]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d3a234f773877d4ed1b2c72cc75ae4c7e1ad89d3"
+julia_version = "1.8.2"
+libc = "glibc"
+os = "linux"
+
+    [[mousetrap.download]]
+    sha256 = "d85604008d2f7020de727ff64847596518f2c742f9521c1fce0147c3acb63bae"
+    url = "https://github.com/JuliaBinaryWrappers/mousetrap_jll.jl/releases/download/mousetrap-v0.3.0+0/mousetrap.v0.3.0.x86_64-linux-gnu-cxx11-julia_version+1.8.2.tar.gz"
+[[mousetrap]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "17e4584383eb24a5b0e28e29bfcfbf5ff3b0c6b3"
+julia_version = "1.9.0"
+libc = "glibc"
+os = "linux"
+
+    [[mousetrap.download]]
+    sha256 = "db2e82f76ea82fa8bba60f9d64f247581ef135f14b9114dfe4fb2c8645a9c5e4"
+    url = "https://github.com/JuliaBinaryWrappers/mousetrap_jll.jl/releases/download/mousetrap-v0.3.0+0/mousetrap.v0.3.0.x86_64-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
+[[mousetrap]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4c8931313b0ab817a5bdb3533296fb227d334121"
+julia_version = "1.10.0"
+libc = "musl"
+os = "linux"
+
+    [[mousetrap.download]]
+    sha256 = "5a87830ba94fb796548bc73d67f3262d6673380804ee6c964dd4f366ddc6196c"
+    url = "https://github.com/JuliaBinaryWrappers/mousetrap_jll.jl/releases/download/mousetrap-v0.3.0+0/mousetrap.v0.3.0.x86_64-linux-musl-cxx03-julia_version+1.10.0.tar.gz"
+[[mousetrap]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d34817215568dd4e6a6f64dea3f752a1ba5a1a24"
+julia_version = "1.11.0"
+libc = "musl"
+os = "linux"
+
+    [[mousetrap.download]]
+    sha256 = "8543ee8e12189ed084f65e1b950768f60520e2f7aca76d4a11f773fc07fb2b74"
+    url = "https://github.com/JuliaBinaryWrappers/mousetrap_jll.jl/releases/download/mousetrap-v0.3.0+0/mousetrap.v0.3.0.x86_64-linux-musl-cxx03-julia_version+1.11.0.tar.gz"
+[[mousetrap]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "57e3d150c4cd94b426bf7954274fbf3774018c30"
+julia_version = "1.7.0"
+libc = "musl"
+os = "linux"
+
+    [[mousetrap.download]]
+    sha256 = "15bc6b4a7448ebc3672d8f76676641cbcdcd3845b539db7be698fa0ddfd8bd41"
+    url = "https://github.com/JuliaBinaryWrappers/mousetrap_jll.jl/releases/download/mousetrap-v0.3.0+0/mousetrap.v0.3.0.x86_64-linux-musl-cxx03-julia_version+1.7.0.tar.gz"
+[[mousetrap]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c8ef1937f264ab1fc7d4f28024bb7ea3e3931e64"
+julia_version = "1.8.2"
+libc = "musl"
+os = "linux"
+
+    [[mousetrap.download]]
+    sha256 = "a736e80ca01005db368f9788b0ecded775f62ff5034e39e4fb78a2d301247eb0"
+    url = "https://github.com/JuliaBinaryWrappers/mousetrap_jll.jl/releases/download/mousetrap-v0.3.0+0/mousetrap.v0.3.0.x86_64-linux-musl-cxx03-julia_version+1.8.2.tar.gz"
+[[mousetrap]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "0881b968abf18f23205983d7c2f29cb2245ccc1b"
+julia_version = "1.9.0"
+libc = "musl"
+os = "linux"
+
+    [[mousetrap.download]]
+    sha256 = "23b99d437fd763845a903f21a9a2b163c1ac5d26fa1b322614eabf4c985f3c92"
+    url = "https://github.com/JuliaBinaryWrappers/mousetrap_jll.jl/releases/download/mousetrap-v0.3.0+0/mousetrap.v0.3.0.x86_64-linux-musl-cxx03-julia_version+1.9.0.tar.gz"
+[[mousetrap]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "fc517ce785d9ff51812b177ec24d8200f9bb48b6"
+julia_version = "1.10.0"
+libc = "musl"
+os = "linux"
+
+    [[mousetrap.download]]
+    sha256 = "74af848e6aed7a4bbfbd7c263abbeb1a9695e04e06dd68c3eebe91880d919a18"
+    url = "https://github.com/JuliaBinaryWrappers/mousetrap_jll.jl/releases/download/mousetrap-v0.3.0+0/mousetrap.v0.3.0.x86_64-linux-musl-cxx11-julia_version+1.10.0.tar.gz"
+[[mousetrap]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "67b91b6e37657550ab972eebde90dca1622f9741"
+julia_version = "1.11.0"
+libc = "musl"
+os = "linux"
+
+    [[mousetrap.download]]
+    sha256 = "abe1b5527c0365af0aa1a9e1b4ae891c9ebcd1b1962a72b375a22912c57c7343"
+    url = "https://github.com/JuliaBinaryWrappers/mousetrap_jll.jl/releases/download/mousetrap-v0.3.0+0/mousetrap.v0.3.0.x86_64-linux-musl-cxx11-julia_version+1.11.0.tar.gz"
+[[mousetrap]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "39c731c27b8e9b82be0217072b2b4ea5154d2b55"
+julia_version = "1.7.0"
+libc = "musl"
+os = "linux"
+
+    [[mousetrap.download]]
+    sha256 = "a5b2fe6aab44bd80962df4168e87e476a20cb3ba5f8f7b28565ed3bca36766f7"
+    url = "https://github.com/JuliaBinaryWrappers/mousetrap_jll.jl/releases/download/mousetrap-v0.3.0+0/mousetrap.v0.3.0.x86_64-linux-musl-cxx11-julia_version+1.7.0.tar.gz"
+[[mousetrap]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "96335749a332abc987d1d7d6636aa0e462d95b1c"
+julia_version = "1.8.2"
+libc = "musl"
+os = "linux"
+
+    [[mousetrap.download]]
+    sha256 = "237a42aab5d5104fd093fd115b917b1f630e8734509e6480c3a7f976792be476"
+    url = "https://github.com/JuliaBinaryWrappers/mousetrap_jll.jl/releases/download/mousetrap-v0.3.0+0/mousetrap.v0.3.0.x86_64-linux-musl-cxx11-julia_version+1.8.2.tar.gz"
+[[mousetrap]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6cb1313ea5fd63926d556ee52840ee4f7e61f33a"
+julia_version = "1.9.0"
+libc = "musl"
+os = "linux"
+
+    [[mousetrap.download]]
+    sha256 = "0d6f894e80e5bdd3ad097b0ef9f53b2ad332d6139f87800a92441f9fef1a4a15"
+    url = "https://github.com/JuliaBinaryWrappers/mousetrap_jll.jl/releases/download/mousetrap-v0.3.0+0/mousetrap.v0.3.0.x86_64-linux-musl-cxx11-julia_version+1.9.0.tar.gz"
+[[mousetrap]]
+arch = "x86_64"
+git-tree-sha1 = "1521af735db774d5344fc36f892d8a7e50e7d47c"
+julia_version = "1.10.0"
+os = "freebsd"
+
+    [[mousetrap.download]]
+    sha256 = "0de74a0a2e3e156dd7a85cff8e456b3f95066ba32d4609f0c3ff61e42e99e7db"
+    url = "https://github.com/JuliaBinaryWrappers/mousetrap_jll.jl/releases/download/mousetrap-v0.3.0+0/mousetrap.v0.3.0.x86_64-unknown-freebsd-julia_version+1.10.0.tar.gz"
+[[mousetrap]]
+arch = "x86_64"
+git-tree-sha1 = "36592735cf205b8b13e7971f3c8b70f353773888"
+julia_version = "1.11.0"
+os = "freebsd"
+
+    [[mousetrap.download]]
+    sha256 = "e7de794715548c6a4e3245178a5c2d1dbe1b83e0ce47d238a9ac11c8b68e977b"
+    url = "https://github.com/JuliaBinaryWrappers/mousetrap_jll.jl/releases/download/mousetrap-v0.3.0+0/mousetrap.v0.3.0.x86_64-unknown-freebsd-julia_version+1.11.0.tar.gz"
+[[mousetrap]]
+arch = "x86_64"
+git-tree-sha1 = "7590e964d5c1b335bffc2763d347f944f9112f9d"
+julia_version = "1.7.0"
+os = "freebsd"
+
+    [[mousetrap.download]]
+    sha256 = "7ec9127040ca2ade82407f2c17ff58dcf6d5fab2602c9d1019ba80998140d1cc"
+    url = "https://github.com/JuliaBinaryWrappers/mousetrap_jll.jl/releases/download/mousetrap-v0.3.0+0/mousetrap.v0.3.0.x86_64-unknown-freebsd-julia_version+1.7.0.tar.gz"
+[[mousetrap]]
+arch = "x86_64"
+git-tree-sha1 = "69537f7558bb6241b8ccf3f567e30643641c929c"
+julia_version = "1.8.2"
+os = "freebsd"
+
+    [[mousetrap.download]]
+    sha256 = "959db5d18bcdc8cb55ee4fb21e4906d2b535f972986d915188a93ef971d0e1a0"
+    url = "https://github.com/JuliaBinaryWrappers/mousetrap_jll.jl/releases/download/mousetrap-v0.3.0+0/mousetrap.v0.3.0.x86_64-unknown-freebsd-julia_version+1.8.2.tar.gz"
+[[mousetrap]]
+arch = "x86_64"
+git-tree-sha1 = "201aa1a02f5d10019dcd02cdd1698a1cb42c994d"
+julia_version = "1.9.0"
+os = "freebsd"
+
+    [[mousetrap.download]]
+    sha256 = "8f7b6d74550c133c3b837fe8f50ecd5987a7f53569dcabda0568d4cad59a0c85"
+    url = "https://github.com/JuliaBinaryWrappers/mousetrap_jll.jl/releases/download/mousetrap-v0.3.0+0/mousetrap.v0.3.0.x86_64-unknown-freebsd-julia_version+1.9.0.tar.gz"
+[[mousetrap]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "2c1aeaca9082984142c0b3947b5be23bc57d765b"
+julia_version = "1.10.0"
+os = "windows"
+
+    [[mousetrap.download]]
+    sha256 = "2d8a36e2cdae7c634009db47ea7121eabe4c8be60e160067d7a49d48d77188df"
+    url = "https://github.com/JuliaBinaryWrappers/mousetrap_jll.jl/releases/download/mousetrap-v0.3.0+0/mousetrap.v0.3.0.x86_64-w64-mingw32-cxx03-julia_version+1.10.0.tar.gz"
+[[mousetrap]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "04fd3b400c59ce47d77ba2c090c15f8eb4224d1c"
+julia_version = "1.11.0"
+os = "windows"
+
+    [[mousetrap.download]]
+    sha256 = "767f461667016a8b8b89692ca33e8f4076f0b04f0f5d889d41fdfcc72147ffff"
+    url = "https://github.com/JuliaBinaryWrappers/mousetrap_jll.jl/releases/download/mousetrap-v0.3.0+0/mousetrap.v0.3.0.x86_64-w64-mingw32-cxx03-julia_version+1.11.0.tar.gz"
+[[mousetrap]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c5923e48257a62d908b1bf7a68187a34f3095367"
+julia_version = "1.7.0"
+os = "windows"
+
+    [[mousetrap.download]]
+    sha256 = "8b58cf9b198bb51c1dfe580358a4ee1fdfcad18739bd909e687c2e8aa2982f94"
+    url = "https://github.com/JuliaBinaryWrappers/mousetrap_jll.jl/releases/download/mousetrap-v0.3.0+0/mousetrap.v0.3.0.x86_64-w64-mingw32-cxx03-julia_version+1.7.0.tar.gz"
+[[mousetrap]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4fea044f3cdbc6734eeb9e1e598b25d87e79a40b"
+julia_version = "1.8.2"
+os = "windows"
+
+    [[mousetrap.download]]
+    sha256 = "44b5658048685c7eb5d32fcb5015d1e5e6be9ad9562050a1580baacdc181331f"
+    url = "https://github.com/JuliaBinaryWrappers/mousetrap_jll.jl/releases/download/mousetrap-v0.3.0+0/mousetrap.v0.3.0.x86_64-w64-mingw32-cxx03-julia_version+1.8.2.tar.gz"
+[[mousetrap]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "59ab0cc09dcd6e33f8e0788676f8f0de05ffe78a"
+julia_version = "1.9.0"
+os = "windows"
+
+    [[mousetrap.download]]
+    sha256 = "5f3f6d0ea57a8d710bacd4d4bebae5fc1b22fb111ee20e62de94c564926c51d6"
+    url = "https://github.com/JuliaBinaryWrappers/mousetrap_jll.jl/releases/download/mousetrap-v0.3.0+0/mousetrap.v0.3.0.x86_64-w64-mingw32-cxx03-julia_version+1.9.0.tar.gz"
+[[mousetrap]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "906972687f164afc64fc8b6ab850d858622a979f"
+julia_version = "1.10.0"
+os = "windows"
+
+    [[mousetrap.download]]
+    sha256 = "d047363f7dcb97801bf8f3f83816ad20c3818682c21feefae4d88d634564561d"
+    url = "https://github.com/JuliaBinaryWrappers/mousetrap_jll.jl/releases/download/mousetrap-v0.3.0+0/mousetrap.v0.3.0.x86_64-w64-mingw32-cxx11-julia_version+1.10.0.tar.gz"
+[[mousetrap]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "62656b5bcf17552318069b1036992827368570e7"
+julia_version = "1.11.0"
+os = "windows"
+
+    [[mousetrap.download]]
+    sha256 = "6ee827e175c6b40055fa207f1ac346c6fc8cd21a60942b55bb86e7ac94ae312a"
+    url = "https://github.com/JuliaBinaryWrappers/mousetrap_jll.jl/releases/download/mousetrap-v0.3.0+0/mousetrap.v0.3.0.x86_64-w64-mingw32-cxx11-julia_version+1.11.0.tar.gz"
+[[mousetrap]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "54f29571338d507788bb9d631772f5c932b3a7b9"
+julia_version = "1.7.0"
+os = "windows"
+
+    [[mousetrap.download]]
+    sha256 = "53612b6c5e2b8a81f4b535ad6fb3d189fe2bdb29ec6d61eda941594f08572f3d"
+    url = "https://github.com/JuliaBinaryWrappers/mousetrap_jll.jl/releases/download/mousetrap-v0.3.0+0/mousetrap.v0.3.0.x86_64-w64-mingw32-cxx11-julia_version+1.7.0.tar.gz"
+[[mousetrap]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3fcd31e9feff8c7aded96c843b6f2117968c0ab8"
+julia_version = "1.8.2"
+os = "windows"
+
+    [[mousetrap.download]]
+    sha256 = "09f6486985d41da27357250149b0ae645a7321b7dda4e0bef14191963d5aaddd"
+    url = "https://github.com/JuliaBinaryWrappers/mousetrap_jll.jl/releases/download/mousetrap-v0.3.0+0/mousetrap.v0.3.0.x86_64-w64-mingw32-cxx11-julia_version+1.8.2.tar.gz"
+[[mousetrap]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "308fbc14ca742bfd8cdd6a03f64709a499d3abc4"
+julia_version = "1.9.0"
+os = "windows"
+
+    [[mousetrap.download]]
+    sha256 = "0cb28d761f0252380dbb965b23773cf82f5bad404056941b663edf6b4d767f54"
+    url = "https://github.com/JuliaBinaryWrappers/mousetrap_jll.jl/releases/download/mousetrap-v0.3.0+0/mousetrap.v0.3.0.x86_64-w64-mingw32-cxx11-julia_version+1.9.0.tar.gz"
